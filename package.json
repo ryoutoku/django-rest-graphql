@@ -1,0 +1,27 @@
+{
+  "name": "django-rest-graphql",
+  "version": "1.0.0",
+  "description": "inspection for REST framework and GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoutoku/django-rest-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryoutoku/django-rest-graphql/issues"
+  },
+  "homepage": "https://github.com/ryoutoku/django-rest-graphql#readme",
+  "devDependencies": {
+    "markdownlint": "^0.25.1",
+    "textlint": "^12.1.1",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
